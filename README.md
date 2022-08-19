@@ -1,0 +1,2 @@
+# GymProj
+Gym Management System Project using Python. The program will help identify and distinguish between a customer and a trainer. This will then store the necessary details needed for that specific profile depending the actions they have taken from the selection on the menu being prompted at them when the program starts. The menu will give the user options to login/create an account as a customer or trainer. As well as allowing the user to edit/update or delete their existing account.
